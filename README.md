@@ -13,7 +13,7 @@ Product cards
 
 Cart
 
-![image](https://github.com/user-attachments/assets/4b64d2b0-8347-4f31-b03d-851f01af3a80)
+![image](https://github.com/user-attachments/assets/f9a6482e-2b84-4721-bb41-47511708590b)
 ![image](https://github.com/user-attachments/assets/c851330c-55da-4448-9a03-c65bb896d9e6)
 
 
