@@ -1,0 +1,29 @@
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: #F8F9F9;
+  --background-end-rgb: 255, 255, 255;
+  --green-color: #284E35;
+  --orange-color: #EE7103;
+  --red-color: #FA471F;
+  --grey-color: #E8E8E8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: #333;
+    --background-start-rgb: #F8F9F9;
+    --background-end-rgb: 0, 0, 0;
+    --green-color: #284E35;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
